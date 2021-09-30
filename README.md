@@ -14,4 +14,10 @@
 * [Python Optimization Techniques](./PythonOptimization.ipynb)
   * Python Interning
   * Peephole / Keyhole optimization
+* Resources
+  * [Blog: Python Code optimization Tips & Tricks](https://www.techbeamers.com/python-code-optimization-tips-tricks)
+
+---
+
+
 
