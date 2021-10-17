@@ -7,7 +7,9 @@
 
    Variables and Memory References, Garbage Collection, Dynamic vs static Typing, Variable Reassignment, Object Mutability, Variable Equality, Everything is an Object and Python Interning
 
-3. Python 301 - Numeric Types in Detail
+3. [Python 301](./Python_301.ipynb) - **Numeric Types in Detail**
+
+   [Python 301 Extended](./Python_301_ext.ipynb) - **Numeric Types**
 
    Integers, Constructors, Bases, 
 
