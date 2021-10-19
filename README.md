@@ -11,6 +11,8 @@
 
    [Python 301 Extended](./Python_301_ext.ipynb) - **Numeric Types**
 
+   [Project using Numerical types](./Projects/NumericalTypes)
+
    Integers, Constructors, Bases, 
 
    Rational Numbers, Floats, rounding, Coercing to Integers and equality, 
