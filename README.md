@@ -63,6 +63,10 @@
 
 ---
 
+## Resources / Blogs
+
+
+
 * [For memory profile - use library memory_profiler](https://pypi.org/project/memory-profiler/)
 
 * PyDoc
@@ -89,7 +93,7 @@
   * [Blog: Python Code optimization Tips & Tricks](https://www.techbeamers.com/python-code-optimization-tips-tricks)
   * [Python Reference](https://python-reference.readthedocs.io/en/latest/intro.html)
   * [Python Grammar](https://docs.python.org/3/reference/grammar.html)
-  * 
+  * [Learn By Example : website](https://www.learnbyexample.org/python/)
 
 ---
 
