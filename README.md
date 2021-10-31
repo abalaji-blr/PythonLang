@@ -27,11 +27,11 @@
 
 4. [Functions](./Python_401.ipynb)
 
+   [Project: Defining Higher Order Function - time_it](./Project/HigherOrderFunction)
+
    Docstrings, and Annotations.
 
    Lambda Expressions, Lambdas and Sorting, 
-
-   Functional Introspection, 
 
    Callables, Map, Filter, Zip, and List Comprehension
 
