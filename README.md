@@ -27,7 +27,7 @@
 
 4. [Functions](./Python_401.ipynb)
 
-   [Project: Defining Higher Order Function - time_it](./Project/HigherOrderFunction)
+   [Project: Defining Higher Order Function - time_it](./Projects/HigherOrderFunction)
 
    Docstrings, and Annotations.
 
