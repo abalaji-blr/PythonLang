@@ -25,7 +25,9 @@
 
    Comparison Operators
 
-4. Functions
+4. [Functions](./Python_401.ipynb)
+
+   Docstrings, and Annotations.
 
    Lambda Expressions, Lambdas and Sorting, 
 
@@ -35,25 +37,27 @@
 
    Reducing functions, Partial Functions, 
 
-   Operator Module, 
+   Operator Module
 
-   Docstrings, and Annotations.
+5. [Code Intropection](./CodeIntrospection.ipynb) - Inspecting the object at run time
 
-5. Scopes and Closures
+6. [Scopes](./Scope.ipynb) - Global, Local & Nonlocal
 
-6. Decorators
+7. Closures
 
-7. Attention and Memory
+8. Decorators
 
-8. Tuples
+9. Attention and Memory
 
-9. fStrings
+10. Tuples
 
-10. Sequence Types
+11. fStrings
 
-11. Iterables and Iterators
+12. Sequence Types
 
-12. Generators and Iteration tools and Context Managers.
+13. Iterables and Iterators
+
+14. Generators and Iteration tools and Context Managers.
 
 
 
@@ -91,8 +95,11 @@
 * Resources
 
   * [Blog: Python Code optimization Tips & Tricks](https://www.techbeamers.com/python-code-optimization-tips-tricks)
+  * [Python 3 Language Reference](https://docs.python.org/3/reference/index.html)
+  * [Python Documentation](https://www.python.org/doc/)
   * [Python Reference](https://python-reference.readthedocs.io/en/latest/intro.html)
   * [Python Grammar](https://docs.python.org/3/reference/grammar.html)
+  * [Python Source code : GitHub](https://github.com/python/pythondotorg)
   * [Learn By Example : website](https://www.learnbyexample.org/python/)
 
 ---
