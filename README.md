@@ -43,7 +43,7 @@
 
 6. [Scopes](./Scope.ipynb) - Global, Local & Nonlocal
 
-7. Closures
+7. [Closures](./ClosuresInPython.ipynb) - Nested function in which the inner function access the nonlocal variable, and remembers the state.
 
 8. Decorators
 
