@@ -45,6 +45,8 @@
 
 7. [Closures](./ClosuresInPython.ipynb) - Nested function in which the inner function access the nonlocal variable, and remembers the state.
 
+   [Project using Closures](https://github.com/abalaji-blr/session-6/)
+
 8. Decorators
 
 9. Attention and Memory
@@ -74,6 +76,12 @@
 * [For memory profile - use library memory_profiler](https://pypi.org/project/memory-profiler/)
 
 * PyDoc
+
+  ```
+  pydoc -b # b for browser
+  ```
+
+  
 
 * PyTest
 
