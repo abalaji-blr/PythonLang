@@ -39,6 +39,8 @@
 
    Operator Module
 
+   [Docs: Python Built-in Functions](https://docs.python.org/3/library/functions.html)
+
 5. [Code Intropection](./CodeIntrospection.ipynb) - Inspecting the object at run time
 
 6. [Scopes](./Scope.ipynb) - Global, Local & Nonlocal
@@ -48,6 +50,8 @@
    [Project using Closures](https://github.com/abalaji-blr/session-6/)
 
 8. Decorators
+
+   [Blog: Decorators in Python - Brief Introduction with examples.](https://betterprogramming.pub/decorators-in-python-72a1d578eac4)
 
 9. Attention and Memory
 
