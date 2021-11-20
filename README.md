@@ -49,7 +49,7 @@
 
    [Project using Closures](https://github.com/abalaji-blr/session-6/)
 
-8. Decorators
+8. [Decorators](./Decortors_updated.ipynb)
 
    [Blog: Decorators in Python - Brief Introduction with examples.](https://betterprogramming.pub/decorators-in-python-72a1d578eac4)
 
@@ -103,6 +103,7 @@
 
   * Python Interning
   * Peephole / Keyhole optimization
+  * Lru_cache : Least Recently Used - eviction strategy to cache.
 
 * Resources
 
