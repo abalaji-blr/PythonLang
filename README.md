@@ -55,9 +55,9 @@
 
 9. Attention and Memory
 
-10. Tuples
+10. [Tuples, Namedtuples](./Tuples.ipynb)
 
-   [Tuples, Namedtuples](./Tuples.ipynb)
+   [Bytecode, Dis-assembly](./Disassembly.ipynb)
 
 11. fStrings
 
