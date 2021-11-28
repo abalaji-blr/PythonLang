@@ -57,6 +57,8 @@
 
 10. Tuples
 
+   [Tuples, Namedtuples](./Tuples.ipynb)
+
 11. fStrings
 
 12. Sequence Types
