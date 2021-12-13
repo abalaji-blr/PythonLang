@@ -53,19 +53,19 @@
 
    [Blog: Decorators in Python - Brief Introduction with examples.](https://betterprogramming.pub/decorators-in-python-72a1d578eac4)
 
-9. Attention and Memory
-
-10. [Tuples, Namedtuples](./Tuples.ipynb)
+9. [Tuples, Namedtuples](./Tuples.ipynb)
 
    [Bytecode, Dis-assembly](./Disassembly.ipynb)
 
-11. fStrings
+   [Project using Faker Library, namedtuples](./Projects/NamedTuples/README.md)
 
-12. Sequence Types
+10. fStrings
 
-13. Iterables and Iterators
+11. Sequence Types
 
-14. Generators and Iteration tools and Context Managers.
+12. Iterables and Iterators
+
+13. Generators and Iteration tools and Context Managers.
 
 
 
@@ -101,11 +101,16 @@
 
 * Performance  - How to measure the time for a function?
 
+  * timeit()
+
 * [Python Optimization Techniques](./PythonOptimization.ipynb)
 
   * Python Interning
   * Peephole / Keyhole optimization
   * Lru_cache : Least Recently Used - eviction strategy to cache.
+  * Constant folding - standard techinque of evaluating the expressions at compile time than the run time.
+
+* Data generation using Faker Library
 
 * Resources
 
