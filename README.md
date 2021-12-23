@@ -1,71 +1,51 @@
 # Python Language
-1. [Basics - Python 101](./Python_101.ipynb)
+- **Statements and Data Types:**
 
-   Comments, Multi line comments, Multi line statements, Built in data types - List, Tuples, Set, Hash Tables. Functions, Lambda Functions and Classes.
+  - ​	[Basics - Python 101](./Python_101.ipynb)
 
-2. [Python 201](./Python_201.ipynb)
+    Comments, Multi line comments, Multi line statements, Built in data types - List, Tuples, Set, Hash Tables. Functions, Lambda Functions and Classes.
 
-   Variables and Memory References, Garbage Collection, Dynamic vs static Typing, Variable Reassignment, Object Mutability, Variable Equality, Everything is an Object and Python Interning
+  * [Python 201](./Python_201.ipynb)
 
-3. [Python 301](./Python_301.ipynb) - **Numeric Types in Detail**
+    Variables and Memory References, Garbage Collection, Dynamic vs static Typing, Variable Reassignment, Object Mutability, Variable Equality, Everything is an Object and Python Interning
 
-   [Python 301 Extended](./Python_301_ext.ipynb) - **Numeric Types**
+  * [Python 301](./Python_301.ipynb) - **Numeric Types in Detail**
 
-   [Project using Numerical types](./Projects/NumericalTypes)
+    [Python 301 Extended](./Python_301_ext.ipynb) - **Numeric Types**
 
-   Integers, Constructors, Bases, 
+    [Project using Numerical types](./Projects/NumericalTypes)
 
-   Rational Numbers, Floats, rounding, Coercing to Integers and equality, 
+    Integers, Constructors, Bases, Rational Numbers, Floats, rounding, Coercing to Integers and equality, Decimals, Decimal Operations, Decimal Performance, Complex Numbers, Booleans, Boolean Precedence and Comparison Operators
 
-   Decimals, Decimal Operations, Decimal Performance, 
+- **Data Structures:**
 
-   Complex Numbers, 
+  - [Tuples, Namedtuples](./Tuples.ipynb)
+  - [Project using Faker Library, namedtuples](./Projects/NamedTuples/README.md)
+  - [Bytecode, Dis-assembly](./Disassembly.ipynb)
 
-   Booleans, Boolean Precedence and 
+- **Functions as Objects:**
 
-   Comparison Operators
+  - [Functions](./Python_401.ipynb)
 
-4. [Functions](./Python_401.ipynb)
+  - [Project: Defining Higher Order Function - time_it](./Projects/HigherOrderFunction)
 
-   [Project: Defining Higher Order Function - time_it](./Projects/HigherOrderFunction)
+    Docstrings, and Annotations. Lambda Expressions, Lambdas and Sorting, Callables, Map, Filter, Zip, and List Comprehension, Reducing functions, Partial Functions, Operator Module
 
-   Docstrings, and Annotations.
+  * [Docs: Python Built-in Functions](https://docs.python.org/3/library/functions.html)
+    * [Code Intropection](./CodeIntrospection.ipynb) - Inspecting the object at run time
+    * [Scopes](./Scope.ipynb) - Global, Local & Nonlocal
+  * [Closures](./ClosuresInPython.ipynb) - Nested function in which the inner function access the nonlocal variable, and remembers the state.
+    * [Project using Closures](https://github.com/abalaji-blr/session-6/)
+  * [Decorators](./Decorators_updated.ipynb)
+    * [Blog: Decorators in Python - Brief Introduction with examples.](https://betterprogramming.pub/decorators-in-python-72a1d578eac4)
 
-   Lambda Expressions, Lambdas and Sorting, 
+- **Control Flow**
 
-   Callables, Map, Filter, Zip, and List Comprehension
+  - [**Iterables and Iterators**](./IterablesAndIterators.ipynb)
+  - Generators
+  - Context Managers
 
-   Reducing functions, Partial Functions, 
-
-   Operator Module
-
-   [Docs: Python Built-in Functions](https://docs.python.org/3/library/functions.html)
-
-5. [Code Intropection](./CodeIntrospection.ipynb) - Inspecting the object at run time
-
-6. [Scopes](./Scope.ipynb) - Global, Local & Nonlocal
-
-7. [Closures](./ClosuresInPython.ipynb) - Nested function in which the inner function access the nonlocal variable, and remembers the state.
-
-   [Project using Closures](https://github.com/abalaji-blr/session-6/)
-
-8. [Decorators](./Decorators_updated.ipynb)
-
-   [Blog: Decorators in Python - Brief Introduction with examples.](https://betterprogramming.pub/decorators-in-python-72a1d578eac4)
-
-9. [Tuples, Namedtuples](./Tuples.ipynb)
-
-   [Bytecode, Dis-assembly](./Disassembly.ipynb)
-
-   [Project using Faker Library, namedtuples](./Projects/NamedTuples/README.md)
-
-10. fStrings
-
-11. Sequence Types
-
-12. Iterables and Iterators
-
-13. Generators and Iteration tools and Context Managers.
+- Properties in Python
 
 
 
