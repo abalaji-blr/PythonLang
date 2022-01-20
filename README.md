@@ -43,6 +43,7 @@
 
   - [**Iterables and Iterators**](./IterablesAndIterators.ipynb)
   - [Generators](./Generators.ipynb)
+  - [Generator Functions in Standard Library](./GenFunctionsInStdLib.ipynb)
   - Context Managers
 
 - Properties in Python
