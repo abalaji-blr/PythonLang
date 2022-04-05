@@ -96,12 +96,26 @@
 * Resources
 
   * [Blog: Python Code optimization Tips & Tricks](https://www.techbeamers.com/python-code-optimization-tips-tricks)
+  
   * [Python 3 Language Reference](https://docs.python.org/3/reference/index.html)
+  
   * [Python Documentation](https://www.python.org/doc/)
+  
   * [Python Reference](https://python-reference.readthedocs.io/en/latest/intro.html)
+  
   * [Python Grammar](https://docs.python.org/3/reference/grammar.html)
+  
   * [Python Source code : GitHub](https://github.com/python/pythondotorg)
+  
   * [Learn By Example : website](https://www.learnbyexample.org/python/)
+  
+  * [**Python Tips**](https://book.pythontips.com/en/latest/index.html)
+  
+  * [**Python Tutorials**](https://www.programiz.com/python-programming)
+  
+  * [**Online Book: Automate the Boring Stuff**](https://automatetheboringstuff.com/)
+  
+    
 
 ---
 
